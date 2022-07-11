@@ -1,0 +1,140 @@
+* {
+    Background: #E5E5E5;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;    
+}
+
+.logo{
+    position: absolute;
+    margin-top: 1%;
+    margin-left: 3%;
+    float: inherit;
+}
+
+.titulo-principal{
+    text-align: center;
+    padding: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "inter";
+}
+
+.contenedor{
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 5px;  
+    background: #F3F5FC;  
+}
+
+.panel01{
+    float: left;
+    width: 60%;
+    height: 40%;
+    margin-top: 5%;
+    border-radius: 24px; 
+    background: #F3F5FC;   
+}
+
+.input{
+    float: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 80%;
+    height: 70%;
+    color: #0A3871;
+    font-size: 20px;
+    background: #F3F5FC;
+    border: none;
+    outline: none;
+}
+
+.panel02{
+    float: right;
+    margin: 1%;
+    width: 30%;
+    height: 95%;
+    border-radius: 24px;
+    background: white;
+}
+
+#img{
+    margin: 8%;
+    margin-top: 25%;
+    width: 80%;
+    height: auto;
+    background: white;
+}
+
+.texto{
+    margin-top: 5%;
+    font-size: 24px;
+    text-align: center;
+    background: white;
+    font-family: "inter";
+}
+
+h6{
+    background: #F3F5FC;
+}
+
+.botones{
+    position: absolute;
+    margin-top: 43%;
+    margin-left: 6%;
+    background: #F3F5FC;
+}
+
+.boton1{
+    margin: 10px;
+    padding:10px;
+    width: 200px; 
+    height: 50px;   
+    border-radius: 24px;
+    font-family: "inter";
+    background: #0A3871;
+    color: white;
+}
+
+.boton2{
+    margin: 10px;
+    background: #D8DFE8;
+    padding:10px;
+    width: 200px;
+    height: 50px;
+    border-radius: 24px;
+    font-family: "inter";
+}
+
+.input2{
+    width: 85%;
+    height: auto;
+    margin: 5%;
+    font-size: 16px;
+    text-align: center;
+    border: none;
+    outline: none;
+    background: white;
+    font-family: "inter";
+}
+
+.boton3{
+    float: right;
+    margin-right: 25%;
+    background: #D8DFE8;
+    padding:10px;
+    width: 150px;
+    height: 50px;
+    border-radius: 24px;
+    display: none;
+    font-family: "inter";
+    margin-top: 100%;    
+}
+
+footer{
+    text-align: center;
+    padding: 40px;
+}
